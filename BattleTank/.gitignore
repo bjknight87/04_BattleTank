@@ -80,4 +80,7 @@ DerivedDataCache/*
 Content/StarterContent/*
 Content/substanceSource/*
 Content/Megascans/*
+Content/Material/*
+Content/Meshes/*
+Content/Textures/*
 Substance/*
